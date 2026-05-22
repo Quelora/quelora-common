@@ -1,0 +1,50 @@
+{
+  "follower": {
+    "title": "Neuer Follower",
+    "message": "Du hast einen neuen Follower: {name|bold}"
+  },
+  "follow_request": {
+    "title": "Neue Follower-Anfrage",
+    "message": "{name|bold} möchte dir folgen"
+  },
+  "like": {
+    "title": "Neues 'Gefällt mir'",
+    "message": "{name|bold} gefällt dein Beitrag"
+  },
+  "comment": {
+    "title": "Neuer Kommentar",
+    "message": "{name|bold} hat deinen Beitrag kommentiert: {comment}"
+  },
+  "comment_followers": {
+    "title": "Neuer Kommentar",
+    "message": "{name|bold} hat den Beitrag kommentiert: {post}"
+  },
+  "post_mentioned": {
+    "title": "Neue Erwähnung",
+    "message": "{name|bold} hat dich in einem Beitrag erwähnt"
+  },
+  "welcome_message": {
+    "title": "Willkommen",
+    "message": "Willkommen in der Community, {name|bold}!"
+  },
+  "follow_approved": {
+    "title": "Anfrage genehmigt",
+    "message": "{name|bold} hat deine Follower-Anfrage genehmigt!"
+  },
+  "verification": {
+      "title": "Verifiziere dein Quelora-Konto",
+      "message": "<h3>Willkommen, {name}!</h3><p>Vielen Dank für deine Registrierung. Bitte verwende den folgenden Code, um dein Konto zu verifizieren:</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>Dieser Code läuft in 5 Minuten ab.</p>"
+  },
+  "email": {
+      "action_view_post": "Beitrag ansehen",
+      "action_view_reply": "Antwort ansehen",
+      "action_view_comment": "Kommentar ansehen",
+      "action_view_profile": "Profil ansehen",
+      "default_action": "Gehe zu Quelora",
+      "action_view_details": "Details ansehen"
+  },
+  "security": {
+      "account_locked_title": "Sicherheitswarnung: Konto gesperrt",
+      "account_locked_message": "Hallo {name}, wir haben mehrere fehlgeschlagene Anmeldeversuche von der IP {ip} festgestellt. Zu deiner Sicherheit wurde dein Konto vorübergehend für 1 Stunde gesperrt. Falls du das warst, warte bitte, bis die Zeit abgelaufen ist. Falls nicht, kontaktiere bitte sofort den Support."
+  }
+}

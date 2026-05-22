@@ -1,0 +1,68 @@
+{
+  "follower": {
+    "title": "Nuevo seguidor",
+    "message": "Tienes un nuevo seguidor: {name|bold}"
+  },
+  "follow_request": {
+    "title": "Nueva solicitud de seguidor",
+    "message": "{name|bold} solicitó seguirte"
+  },
+  "like": {
+    "title": "Nuevo Me gusta",
+    "message": "A {name|bold} le gustó tu publicación",
+    "message_two": "A {name|bold} les gustó tu publicación",
+    "message_multiple": "A {name|bold} y {others} personas más les gustó tu publicación"
+  },
+  "share": {
+    "title": "Publicación compartida",
+    "message": "{name|bold} compartió tu publicación",
+    "message_two": "{name|bold} compartieron tu publicación",
+    "message_multiple": "{name|bold} y {others} personas más compartieron tu publicación"
+  },
+  "post": {
+    "title": "Nueva publicación",
+    "message": "{name|bold} publicó algo nuevo: {post}",
+    "message_two": "{name|bold} publicaron nuevas actualizaciones",
+    "message_multiple": "{name|bold} y {others} personas más publicaron nuevas actualizaciones"
+  },
+  "comment": {
+    "title": "Nuevo comentario",
+    "message": "{name|bold} comentó en tu publicación: {comment}"
+  },
+  "comment_followers": {
+    "title": "Nuevo comentario",
+    "message": "{name|bold} comentó la publicación: {post}"
+  },
+  "post_mentioned": {
+    "title": "Nueva mención",
+    "message": "{name|bold} te mencionó en una publicación"
+  },
+  "welcome_message": {
+    "title": "Bienvenido",
+    "message": "¡Bienvenido a la comunidad, {name|bold}!"
+  },
+  "follow_approved": {
+    "title": "Solicitud aprobada",
+    "message": "¡{name|bold} aprobó tu solicitud de seguimiento!"
+  },
+  "verification": {
+      "title": "Verifica tu cuenta de Quelora",
+      "message": "<h3>¡Bienvenido, {name}!</h3><p>Gracias por registrarte. Por favor, usa el siguiente código para verificar tu cuenta:</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>Este código expirará en 5 minutos.</p>"
+  },
+  "email": {
+      "action_view_post": "Ver publicación",
+      "action_view_reply": "Ver respuesta",
+      "action_view_comment": "Ver comentario",
+      "action_view_profile": "Ver perfil",
+      "default_action": "Ir a Quelora",
+      "action_view_details": "Ver detalles"
+  },
+  "security": {
+      "account_locked_title": "Alerta de seguridad: Cuenta bloqueada",
+      "account_locked_message": "Hola {name}, hemos detectado múltiples intentos fallidos de inicio de sesión desde la IP {ip}. Por tu seguridad, tu cuenta ha sido bloqueada temporalmente por 1 hora. Si fuiste tú, espera a que expire el tiempo. Si no fuiste tú, por favor contacta a soporte inmediatamente."
+  },
+  "recovery": {
+    "title": "Password Recovery for Quelora",
+    "message": "<h3>Hello, {name}!</h3><p>We received a request to reset your password. Please use the following code to continue:</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>This code will expire in 5 minutes. If you did not request this change, you can safely ignore this email.</p>"
+  }
+}

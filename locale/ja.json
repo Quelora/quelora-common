@@ -1,0 +1,50 @@
+{
+  "follower": {
+    "title": "新しいフォロワー",
+    "message": "新しいフォロワーがいます: {name|bold}"
+  },
+  "follow_request": {
+    "title": "新しいフォローリクエスト",
+    "message": "{name|bold} があなたをフォローするようリクエストしました"
+  },
+  "like": {
+    "title": "新しい「いいね」",
+    "message": "{name|bold} があなたの投稿に「いいね」しました"
+  },
+  "comment": {
+    "title": "新しいコメント",
+    "message": "{name|bold} があなたの投稿にコメントしました: {comment}"
+  },
+  "comment_followers": {
+    "title": "新しいコメント",
+    "message": "{name|bold} が投稿にコメントしました: {post}"
+  },
+  "post_mentioned": {
+    "title": "新しいメンション",
+    "message": "{name|bold} が投稿であなたに言及しました"
+  },
+  "welcome_message": {
+    "title": "ようこそ",
+    "message": "コミュニティへようこそ、{name|bold}！"
+  },
+  "follow_approved": {
+    "title": "リクエストを承認しました",
+    "message": "{name|bold} があなたのフォローリクエストを承認しました！"
+  },
+  "verification": {
+      "title": "Queloraアカウントを確認する",
+      "message": "<h3>ようこそ、{name}！</h3><p>ご登録ありがとうございます。アカウントを確認するために、以下のコードを使用してください：</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>このコードは5分で期限切れになります。</p>"
+  },
+  "email": {
+      "action_view_post": "投稿を見る",
+      "action_view_reply": "返信を見る",
+      "action_view_comment": "コメントを見る",
+      "action_view_profile": "プロフィールを見る",
+      "default_action": "Queloraへ移動",
+      "action_view_details": "詳細を見る"
+  },
+  "security": {
+      "account_locked_title": "セキュリティ警告: アカウントがロックされました",
+      "account_locked_message": "こんにちは {name}、IP {ip} からの複数のログイン失敗が検出されました。あなたのセキュリティのため、アカウントは一時的に1時間ロックされました。もしあなたが行った場合は、時間切れになるまでお待ちください。そうでない場合は、すぐにサポートにご連絡ください。"
+  }
+}

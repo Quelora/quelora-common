@@ -1,0 +1,50 @@
+{
+  "follower": {
+    "title": "עוקב חדש",
+    "message": "יש לך עוקב חדש: {name|bold}"
+  },
+  "follow_request": {
+    "title": "בקשת מעקב חדשה",
+    "message": "{name|bold} ביקש/ה לעקוב אחריך"
+  },
+  "like": {
+    "title": "לייק חדש",
+    "message": "{name|bold} אהב/ה את הפוסט שלך"
+  },
+  "comment": {
+    "title": "תגובה חדשה",
+    "message": "{name|bold} הגיב/ה על הפוסט שלך: {comment}"
+  },
+  "comment_followers": {
+    "title": "תגובה חדשה",
+    "message": "{name|bold} הגיב/ה על הפוסט: {post}"
+  },
+  "post_mentioned": {
+    "title": "אזכור חדש",
+    "message": "{name|bold} אזכר/ה אותך בפוסט"
+  },
+  "welcome_message": {
+    "title": "ברוכים הבאים",
+    "message": "ברוכים הבאים לקהילה, {name|bold}!"
+  },
+  "follow_approved": {
+    "title": "הבקשה אושרה",
+    "message": "{name|bold} אישר/ה את בקשת המעקב שלך!"
+  },
+  "verification": {
+      "title": "אמת את חשבון Quelora שלך",
+      "message": "<h3>ברוכים הבאים, {name}!</h3><p>תודה שנרשמת. אנא השתמש/י בקוד הבא כדי לאמת את חשבונך:</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>קוד זה יפוג בעוד 5 דקות.</p>"
+  },
+  "email": {
+      "action_view_post": "הצג פוסט",
+      "action_view_reply": "הצג תגובה",
+      "action_view_comment": "הצג תגובה",
+      "action_view_profile": "הצג פרופיל",
+      "default_action": "עבור ל-Quelora",
+      "action_view_details": "הצג פרטים"
+  },
+  "security": {
+      "account_locked_title": "התראת אבטחה: החשבון נעול",
+      "account_locked_message": "שלום {name}, זיהינו ניסיונות כניסה כושלים מרובים מכתובת ה-IP {ip}. למען בטיחותך, חשבונך ננעל זמנית למשך שעה אחת. אם זה היית אתה, המתן עד שיפוג הזמן. אם לא היית אתה, אנא פנה/י לתמיכה באופן מיידי."
+  }
+}

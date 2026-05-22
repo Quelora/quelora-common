@@ -1,0 +1,50 @@
+{
+  "follower": {
+    "title": "新粉丝",
+    "message": "您有一位新粉丝：{name|bold}"
+  },
+  "follow_request": {
+    "title": "新关注请求",
+    "message": "{name|bold} 请求关注您"
+  },
+  "like": {
+    "title": "新点赞",
+    "message": "{name|bold} 赞了您的帖子"
+  },
+  "comment": {
+    "title": "新评论",
+    "message": "{name|bold} 在您的帖子中评论道：{comment}"
+  },
+  "comment_followers": {
+    "title": "新评论",
+    "message": "{name|bold} 评论了该帖子：{post}"
+  },
+  "post_mentioned": {
+    "title": "新提及（@）",
+    "message": "{name|bold} 在一个帖子中提及了您"
+  },
+  "welcome_message": {
+    "title": "欢迎",
+    "message": "欢迎加入社区，{name|bold}！"
+  },
+  "follow_approved": {
+    "title": "请求已批准",
+    "message": "{name|bold} 批准了您的关注请求！"
+  },
+  "verification": {
+      "title": "验证您的 Quelora 账户",
+      "message": "<h3>欢迎您，{name}！</h3><p>感谢您的注册。请使用以下代码来验证您的账户：</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>此代码将在 5 分钟后过期。</p>"
+  },
+  "email": {
+      "action_view_post": "查看帖子",
+      "action_view_reply": "查看回复",
+      "action_view_comment": "查看评论",
+      "action_view_profile": "查看资料",
+      "default_action": "前往 Quelora",
+      "action_view_details": "查看详情"
+  },
+  "security": {
+      "account_locked_title": "安全警报：账户已锁定",
+      "account_locked_message": "您好 {name}，我们检测到来自 IP {ip} 的多次登录失败尝试。为了您的安全，您的账户已被暂时锁定 1 小时。如果您是本人操作，请等待时间结束。如果不是您，请立即联系客服支持。"
+  }
+}

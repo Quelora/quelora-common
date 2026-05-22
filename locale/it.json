@@ -1,0 +1,50 @@
+{
+  "follower": {
+    "title": "Nuovo follower",
+    "message": "Hai un nuovo follower: {name|bold}"
+  },
+  "follow_request": {
+    "title": "Nuova richiesta di follow",
+    "message": "{name|bold} ha richiesto di seguirti"
+  },
+  "like": {
+    "title": "Nuovo Mi piace",
+    "message": "A {name|bold} è piaciuto il tuo post"
+  },
+  "comment": {
+    "title": "Nuovo commento",
+    "message": "{name|bold} ha commentato il tuo post: {comment}"
+  },
+  "comment_followers": {
+    "title": "Nuovo commento",
+    "message": "{name|bold} ha commentato il post: {post}"
+  },
+  "post_mentioned": {
+    "title": "Nuova menzione",
+    "message": "{name|bold} ti ha menzionato in un post"
+  },
+  "welcome_message": {
+    "title": "Benvenuto",
+    "message": "Benvenuto nella community, {name|bold}!"
+  },
+  "follow_approved": {
+    "title": "Richiesta approvata",
+    "message": "{name|bold} ha approvato la tua richiesta di follow!"
+  },
+  "verification": {
+      "title": "Verifica il tuo account Quelora",
+      "message": "<h3>Benvenuto, {name}!</h3><p>Grazie per esserti registrato. Ti preghiamo di usare il seguente codice per verificare il tuo account:</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>Questo codice scadrà tra 5 minuti.</p>"
+  },
+  "email": {
+      "action_view_post": "Visualizza post",
+      "action_view_reply": "Visualizza risposta",
+      "action_view_comment": "Visualizza commento",
+      "action_view_profile": "Visualizza profilo",
+      "default_action": "Vai a Quelora",
+      "action_view_details": "Visualizza dettagli"
+  },
+  "security": {
+      "account_locked_title": "Avviso di sicurezza: Account bloccato",
+      "account_locked_message": "Ciao {name}, abbiamo rilevato diversi tentativi di accesso falliti dall'IP {ip}. Per la tua sicurezza, il tuo account è stato temporaneamente bloccato per 1 ora. Se fossi stato tu, attendi che il tempo scada. Se non fossi stato tu, contatta immediatamente il supporto."
+  }
+}

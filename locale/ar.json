@@ -1,0 +1,50 @@
+{
+  "follower": {
+    "title": "متابع جديد",
+    "message": "لديك متابع جديد: {name|bold}"
+  },
+  "follow_request": {
+    "title": "طلب متابعة جديد",
+    "message": "طلب {name|bold} متابعتك"
+  },
+  "like": {
+    "title": "إعجاب جديد",
+    "message": "أعجب {name|bold} بمنشورك"
+  },
+  "comment": {
+    "title": "تعليق جديد",
+    "message": "علق {name|bold} على منشورك: {comment}"
+  },
+  "comment_followers": {
+    "title": "تعليق جديد",
+    "message": "علق {name|bold} على المنشور: {post}"
+  },
+  "post_mentioned": {
+    "title": "إشارة جديدة",
+    "message": "أشار إليك {name|bold} في منشور"
+  },
+  "welcome_message": {
+    "title": "مرحباً",
+    "message": "مرحباً بك في المجتمع، {name|bold}!"
+  },
+  "follow_approved": {
+    "title": "تمت الموافقة على الطلب",
+    "message": "وافق {name|bold} على طلب المتابعة الخاص بك!"
+  },
+  "verification": {
+      "title": "تحقق من حسابك على Quelora",
+      "message": "<h3>مرحباً، {name}!</h3><p>شكراً لتسجيلك. يُرجى استخدام الرمز التالي للتحقق من حسابك:</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>هذا الرمز سينتهي صلاحيته خلال 5 دقائق.</p>"
+  },
+  "email": {
+      "action_view_post": "عرض المنشور",
+      "action_view_reply": "عرض الرد",
+      "action_view_comment": "عرض التعليق",
+      "action_view_profile": "عرض الملف الشخصي",
+      "default_action": "اذهب إلى Quelora",
+      "action_view_details": "عرض التفاصيل"
+  },
+  "security": {
+      "account_locked_title": "تنبيه أمني: الحساب مغلق",
+      "account_locked_message": "مرحباً {name}، لقد اكتشفنا عدة محاولات فاشلة لتسجيل الدخول من عنوان IP {ip}. لأغراض أمنك، تم قفل حسابك مؤقتاً لمدة ساعة واحدة. إذا كنت أنت، يرجى انتظار انتهاء الوقت. إذا لم تكن أنت، يرجى الاتصال بالدعم على الفور."
+  }
+}

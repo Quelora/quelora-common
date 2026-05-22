@@ -1,0 +1,50 @@
+{
+  "follower": {
+    "title": "Nouvel abonné",
+    "message": "Vous avez un nouvel abonné : {name|bold}"
+  },
+  "follow_request": {
+    "title": "Nouvelle demande d'abonnement",
+    "message": "{name|bold} a demandé à vous suivre"
+  },
+  "like": {
+    "title": "Nouveau J'aime",
+    "message": "{name|bold} a aimé votre publication"
+  },
+  "comment": {
+    "title": "Nouveau commentaire",
+    "message": "{name|bold} a commenté votre publication : {comment}"
+  },
+  "comment_followers": {
+    "title": "Nouveau commentaire",
+    "message": "{name|bold} a commenté la publication : {post}"
+  },
+  "post_mentioned": {
+    "title": "Nouvelle mention",
+    "message": "{name|bold} vous a mentionné dans une publication"
+  },
+  "welcome_message": {
+    "title": "Bienvenue",
+    "message": "Bienvenue dans la communauté, {name|bold} !"
+  },
+  "follow_approved": {
+    "title": "Demande approuvée",
+    "message": "{name|bold} a approuvé votre demande d'abonnement !"
+  },
+  "verification": {
+      "title": "Vérifiez votre compte Quelora",
+      "message": "<h3>Bienvenue, {name} !</h3><p>Merci de vous être inscrit. Veuillez utiliser le code suivant pour vérifier votre compte :</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>Ce code expirera dans 5 minutes.</p>"
+  },
+  "email": {
+      "action_view_post": "Voir la publication",
+      "action_view_reply": "Voir la réponse",
+      "action_view_comment": "Voir le commentaire",
+      "action_view_profile": "Voir le profil",
+      "default_action": "Aller à Quelora",
+      "action_view_details": "Voir les détails"
+  },
+  "security": {
+      "account_locked_title": "Alerte de sécurité : Compte verrouillé",
+      "account_locked_message": "Bonjour {name}, nous avons détecté plusieurs tentatives de connexion échouées depuis l'adresse IP {ip}. Pour votre sécurité, votre compte a été temporairement verrouillé pendant 1 heure. Si c'était vous, veuillez attendre que le temps expire. Si ce n'était pas vous, veuillez contacter le support immédiatement."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "follower": {
+    "title": "Novo seguidor",
+    "message": "Você tem um novo seguidor: {name|bold}"
+  },
+  "follow_request": {
+    "title": "Nova solicitação para seguir",
+    "message": "{name|bold} solicitou seguir você"
+  },
+  "like": {
+    "title": "Nova curtida",
+    "message": "{name|bold} curtiu sua publicação"
+  },
+  "comment": {
+    "title": "Novo comentário",
+    "message": "{name|bold} comentou na sua publicação: {comment}"
+  },
+  "comment_followers": {
+    "title": "Novo comentário",
+    "message": "{name|bold} comentou na publicação: {post}"
+  },
+  "post_mentioned": {
+    "title": "Nova menção",
+    "message": "{name|bold} mencionou você em uma publicação"
+  },
+  "welcome_message": {
+    "title": "Boas-vindas",
+    "message": "Boas-vindas à comunidade, {name|bold}!"
+  },
+  "follow_approved": {
+    "title": "Solicitação aprovada",
+    "message": "{name|bold} aprovou sua solicitação para seguir!"
+  },
+  "verification": {
+      "title": "Verifique sua conta Quelora",
+      "message": "<h3>Boas-vindas, {name}!</h3><p>Obrigado por se registrar. Por favor, use o código a seguir para verificar sua conta:</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>Este código irá expirar em 5 minutos.</p>"
+  },
+  "email": {
+      "action_view_post": "Ver publicação",
+      "action_view_reply": "Ver resposta",
+      "action_view_comment": "Ver comentário",
+      "action_view_profile": "Ver perfil",
+      "default_action": "Ir para Quelora",
+      "action_view_details": "Ver detalhes"
+  },
+  "security": {
+      "account_locked_title": "Alerta de Segurança: Conta Bloqueada",
+      "account_locked_message": "Olá {name}, detectamos múltiplas tentativas de login malsucedidas do IP {ip}. Para sua segurança, sua conta foi bloqueada temporariamente por 1 hora. Se foi você, espere o tempo expirar. Se não foi você, entre em contato com o suporte imediatamente."
+  }
+}

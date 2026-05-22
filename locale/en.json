@@ -1,0 +1,68 @@
+{
+  "follower": {
+    "title": "New follower",
+    "message": "You have a new follower: {name|bold}"
+  },
+  "follow_request": {
+    "title": "New follow request",
+    "message": "{name|bold} requested to follow you"
+  },
+  "like": {
+    "title": "New Like",
+    "message": "{name|bold} liked your post",
+    "message_two": "{name|bold} liked your post",
+    "message_multiple": "{name|bold} and {others} others liked your post"
+  },
+  "share": {
+    "title": "Post shared",
+    "message": "{name|bold} shared your post",
+    "message_two": "{name|bold} shared your post",
+    "message_multiple": "{name|bold} and {others} others shared your post"
+  },
+  "post": {
+    "title": "New post",
+    "message": "{name|bold} posted something new: {post}",
+    "message_two": "{name|bold} posted new updates",
+    "message_multiple": "{name|bold} and {others} others posted new updates"
+  },
+  "comment": {
+    "title": "New comment",
+    "message": "{name|bold} commented on your post: {comment}"
+  },
+  "comment_followers": {
+    "title": "New comment",
+    "message": "{name|bold} commented on the post: {post}"
+  },
+  "post_mentioned": {
+    "title": "New mention",
+    "message": "{name|bold} mentioned you in a post"
+  },
+  "welcome_message": {
+    "title": "Welcome",
+    "message": "Welcome to the community, {name|bold}!"
+  },
+  "follow_approved": {
+    "title": "Request approved",
+    "message": "{name|bold} approved your follow request!"
+  },
+  "verification": {
+    "title": "Verify your Quelora account",
+    "message": "<h3>Welcome, {name}!</h3><p>Thanks for signing up. Please use the following code to verify your account:</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>This code will expire in 5 minutes.</p>"
+  },
+  "email": {
+    "action_view_post": "View post",
+    "action_view_reply": "View reply",
+    "action_view_comment": "View comment",
+    "action_view_profile": "View profile",
+    "default_action": "Go to Quelora",
+    "action_view_details": "View details"
+  },
+  "security": {
+    "account_locked_title": "Security alert: Account locked",
+    "account_locked_message": "Hi {name}, we detected multiple failed login attempts from IP {ip}. For your security, your account has been temporarily locked for 1 hour. If it was you, please wait until the lock expires. If it wasn’t you, please contact support immediately."
+  },
+  "recovery": {
+    "title": "Password Recovery for Quelora",
+    "message": "<h3>Hello, {name}!</h3><p>We received a request to reset your password. Please use the following code to continue:</p><p style='font-size: 24px; font-weight: bold; letter-spacing: 4px;'>{verificationCode}</p><p>This code will expire in 5 minutes. If you did not request this change, you can safely ignore this email.</p>"
+  }
+}
